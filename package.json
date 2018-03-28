@@ -25,6 +25,7 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
   },
   "dependencies": {
+    "jekyll": "^3.0.0-beta1",
     "simple-line-icons": "^2.3.2"
   }
 }
